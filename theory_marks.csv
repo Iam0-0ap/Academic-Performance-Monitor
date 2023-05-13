@@ -1,0 +1,53 @@
+Semester,Subject,Marks,Out of 
+1,Engineering Mathematics I,56,100
+1,C Programming,66,100
+1,Engineering Drawing I,89,100
+1,Engineering Physics ,76,100
+1,Applied Mechanics,57,100
+1,Basic Electrical Engineering,84,100
+2,Engineering Mathematics II,78,100
+2,Engineering Drawing II,91,100
+2,Basic Electronics Engineering,64,100
+2,Engineering Chemistry,76,100
+2,Fundamentals of Thermodynamics and Heat Transfer,72,100
+2,Workshop Technology,46,50
+3,Engineering Mathematics III,79,100
+3,Object Oriented Programming,74,100
+3,Theory Of Computation,66,100
+3,Electronic Devices and  Circuits,84,100
+3,Electric Circuit Theory,68,100
+3,Digital Logic,79,100
+3,Electromagnetics,80,100
+4,Applied Mathematics,87,100
+4,Discrete Structure,92,100
+4,Data Structure & Algorithm,79,100
+4,Microprocessor,64,100
+4,Instrumentation I,88,100
+4,Numerical Methods,85,100
+4,Electrical Machines,71,100
+5,Software Engineering,71,100
+5,Computer Organization & Architecture,62,100
+5,Data Communication,68,100
+5,Computer Graphics,85,100
+5,Instrumentation II,70,100
+5,Communication English,65,100
+5,Probability & Statistics,83,100
+6,Engineering Economics,69,100
+6,Object Oriented Analysis and Design,77,100
+6,Database Management System,68,100
+6,Embedded System,71,100
+6,Artificial Intelligence,70,100
+6,Operating System,70,100
+7,Computer Network,88,100
+7,Distributed System,71,100
+7,Project Management,78,100
+7,Digital Signal Analysis and Processing,83,100
+7,Organization and Management,80,100
+7,Energy Environment and Society,32,50
+7,Data Mining (Elective I),73,100
+8,Engineering Professional Practice,,50
+8,Information Systems,,100
+8,Simulation and Modelling,,100
+8,Internet and Intranet,,100
+8,Big Data Technologies (Elective II),,100
+8,Multimedia System (Elective III),,100

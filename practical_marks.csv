@@ -1,0 +1,39 @@
+Semester,Subject,Marks,Out of 
+1,C Programming,48,50
+1,Engineering Physics ,42,50
+1,Basic Electrical Engineering,25,25
+2,Basic Electronics Engineering,25,25
+2,Engineering Chemistry,46,50
+2,Fundamentals of Thermodynamics and Heat Transfer,25,25
+3,Object Oriented Programming,50,50
+3,Electronic Devices and  Circuits,25,25
+3,Electric Circuit Theory,25,25
+3,Digital Logic,50,50
+3,Electromagnetics,25,25
+4,Data Structure & Algorithm,49,50
+4,Microprocessor,50,50
+4,Instrumentation I,25,25
+4,Numerical Methods,50,50
+4,Electrical Machines,24,25
+5,Software Engineering,24,25
+5,Computer Organization & Architecture,25,25
+5,Data Communication,24,25
+5,Computer Graphics,50,50
+5,Instrumentation II,24,25
+5,Communication English,25,25
+6,Object Oriented Analysis and Design,23,25
+6,Database Management System,50,50
+6,Embedded System,25,25
+6,Artificial Intelligence,24,25
+6,Operating System,23,25
+6,Minor Project,71,75
+7,Computer Network,50,50
+7,Distributed System,25,25
+7,Digital Signal Analysis and Processing,25,25
+7,Data Mining (Elective I),25,25
+7,Project (Part A),50,50
+8,Simulation and Modelling,,25
+8,Internet and Intranet,,25
+8,Big Data Technologies (Elective II),,25
+8,Multimedia System (Elective III),,25
+8,Project (Part B),,100
